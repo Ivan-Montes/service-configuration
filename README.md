@@ -1,2 +1,2 @@
 # service-configuration
-Support report for Microsrvices + Config server
+Support repo for Microservices + Config server
